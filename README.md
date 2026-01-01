@@ -87,7 +87,8 @@ template.html
 
 
 ## HOMEPAGE:
-C:\Users\acer\exp1\Serverside\Screenshot 2026-01-01 214342.png
+
+![alt text](<Screenshot 2026-01-01 214342-1.png>)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
